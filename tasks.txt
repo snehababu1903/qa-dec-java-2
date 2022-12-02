@@ -1,0 +1,9 @@
+ String s = "everyone loves java";
+
+
+git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1596802014715/snehababu1903-ME_GIT_BASICS.git
+
+https://gitlab.crio.do/COHORT_ME_GIT_BASICS_ENROLL_1596802014715/snehababu1903-ME_GIT_BASICS.git
+
+
+fatal: Not a git repository (or any of the parent directories): .git
