@@ -16,3 +16,4 @@ git commit -m 'msg' --> to commit the changes
 git push ==> to push the changes in the repository in that respective branch
 
 git config user.email
+new changes pls update
